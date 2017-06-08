@@ -9,6 +9,7 @@ public class aularoger {
 		System.out.println("Funcionando 1");
 		System.out.println("Funcionando 2");
 		System.out.println("Funcionando 3");
+		System.out.println("Funcionando 4");
 	}
 
 }
