@@ -8,6 +8,7 @@ public class aularoger {
 		// TODO Auto-generated method stub
 		System.out.println("Funcionando 1");
 		System.out.println("Funcionando 2");
+		System.out.println("Funcionando 3");
 	}
 
 }
